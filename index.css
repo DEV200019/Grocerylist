@@ -1,0 +1,112 @@
+body{
+   box-sizing: border-box;
+   background-color: bisque;
+   }
+
+/* hed1 is organized Gorcery list*/ 
+.hed1 {
+   color: burlywood;
+   text-align: center;
+   background-color: darkseagreen;
+}
+/*hed2 pantry item*/
+.hed2 {
+   color: burlywood;
+   text-align:left ;
+   font-size: 1;
+   background-color: darkseagreen;
+}
+
+/*sec1 canned*/
+.sec1 {
+   width:800px;
+   height: 320px;
+   background-color: chartreuse;
+   color: black;
+   float:left;
+   border: 15px solid bisque
+   }
+
+/*sec2 dry goods*/
+.sec2 {
+
+   width: 800px;
+   height: 320px;
+   background-color: chartreuse;
+   color: black;
+   float:left;
+   justify-content:space-between;
+   border: 15px solid bisque
+  }
+
+/*Freezzer item */
+.hed3{
+   color: burlywood;
+   text-align: left;
+   font-size: 300%;
+   background-color: darkseagreen;
+   }
+/*sec3 veggies*/
+.sec3 {
+   width:800px;
+   height: 320px;
+   background-color: chartreuse;
+   color: black;
+   float: left;
+   border: 15px solid bisque
+   }
+/*sec4 snacks*/
+.sec4 { 
+   width:800px;
+   height: 320px;
+   background-color: chartreuse;
+   color: black;
+   float: left;
+   border: 15px solid bisque 
+}
+
+/*dlist unodered list*/
+.dlist1 {
+   color: black; 
+   padding: 60px;
+  
+}
+ 
+.dlist2 {
+  
+   color: black;
+   padding: 60px;
+   
+}
+/*nlist numbered list*/
+.nlist1 {
+   color:black;
+   padding: 60px;
+}
+ 
+.nlist2 {
+   color:black;
+   padding: 60px;
+   
+}
+
+.pic1 {
+   
+   width:800px;
+   height: 420px;
+   display:inline-block;
+   }
+
+.pic1 img{
+   width:800px;
+   height: 420px;
+   display:inline-block;
+   padding: 14px;
+}
+.pic2 img{
+   
+   display:inline-block;
+   width:800px;
+   height: 420px;
+   padding: 14px;
+   }Grocerylist index.html
